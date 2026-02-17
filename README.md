@@ -1,21 +1,20 @@
 # Hi, I'm Arda 👋
 
-Frontend Developer focused on clean UI and strong fundamentals.
+Full Stack Developer focused on clean architecture, strong fundamentals and scalable web applications.
 
 ## 🚀 About Me
 
-- 🎯 Building responsive web interfaces
-- 💻 Working with HTML, CSS and Vanilla JavaScript
+- 🎯 Building responsive and user-focused web applications
+- 💻 Developing full stack projects with modern web technologies
 - 🎨 Strong design background
 - 📍 Based in Antalya, Turkey
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+HTML5 • CSS3 • JavaScript • Bootstrap  
+C# • .NET • ASP.NET Web API • MSSQL  
+Git • GitHub
 
 ## 📌 Current Goal
 
-Improving my frontend skills and building production-ready projects.
+Building scalable, production-ready full stack applications with clean code principles.
