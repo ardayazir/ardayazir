@@ -11,9 +11,9 @@ Full Stack Developer focused on clean architecture, strong fundamentals and scal
 
 ## 🛠 Tech Stack
 
-HTML5 • CSS3 • JavaScript • Bootstrap  
-C# • .NET • ASP.NET Web API • MSSQL  
-Git • GitHub
+- HTML5 • CSS3 • JavaScript • Bootstrap
+- C# • .NET • ASP.NET Web API • MSSQL
+- Git • GitHub
 
 ## 📌 Current Goal
 
