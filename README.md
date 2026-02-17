@@ -1,14 +1,21 @@
-### Merhaba, ben Arda 👋
+# Hi, I'm Arda 👋
 
-<p align="center">
- <a href="https://discord.com/users/809871983004090378" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/ardayazir" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/artist/139hKNkgzmdgBP4WSTpU6d" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- </p>
+Frontend Developer focused on clean UI and strong fundamentals.
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardayazir&theme=monokai)
-  
-  
-  
+## 🚀 About Me
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=ardayazir&theme=dracula" width="1200"></div></p>
+- 🎯 Building responsive web interfaces
+- 💻 Working with HTML, CSS and Vanilla JavaScript
+- 🎨 Strong design background
+- 📍 Based in Antalya, Turkey
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📌 Current Goal
+
+Improving my frontend skills and building production-ready projects.
